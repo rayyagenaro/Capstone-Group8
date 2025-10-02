@@ -6,7 +6,7 @@ const META_BY_ID = {
   2: { slug: 'bicare',  desc: "Antrian Poli & Konsultasi Dokter.",    logo: "/assets/D'CARE.svg"  },
   3: { slug: 'bimeal',  desc: "Permintaan Konsumsi.",                 logo: "/assets/D'MEAL.svg"  },
   4: { slug: 'bimeet',  desc: "Peminjaman Ruang Rapat.",              logo: "/assets/D'ROOM.svg"  },
-  5: { slug: 'bimail',  desc: "Monitoring Penomoran & Pelacakan.",    logo: "/assets/D%27TRACK.svg" },
+  // 5: { slug: 'bimail',  desc: "Monitoring Penomoran & Pelacakan.",    logo: "/assets/D%27TRACK.svg" },
   6: { slug: 'bistay',  desc: "Reservasi Akomodasi Rumah Dinas.",     logo: "/assets/D'REST.svg"  },
 };
 
